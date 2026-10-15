@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Social,Mathematics,English,Physics,Chemistry,Attendance,Total,Average,Grade,Result
+S001,Swarup,CSE,85,78,92,88,81,95,424.0,84.8,A,Pass
+S002,Jayavardhan,CSE,72,68,75,80,74,88,369.0,73.8,B,Pass
+S003,Uday Kumar,IT,45,52,48,55,50,76,250.0,50.0,D,Pass
+S004,Subhash,CSE,95,91,96,94,98,99,474.0,94.8,A+,Pass
+S005,Prabhas,IT,32,40,35,38,42,68,187.0,37.4,F,Fail
+S006,Tarun Kumar,CSE,88,85,90,87,91,93,441.0,88.2,A,Pass
+S007,Kiran,ECE,60,65,58,62,66,82,311.0,62.2,C,Pass
+S008,Neha,IT,76,82,79,85,80,90,402.0,80.4,A,Pass
+S009,Vikram,ECE,25,30,28,35,32,55,150.0,30.0,F,Fail
+S010,Chinnmai Pavani,CSE,91,89,94,90,93,97,457.0,91.4,A+,Pass
+S011,Aditya,IT,55,48,60,52,57,78,272.0,54.4,D,Pass
+S012,Priya,CSE,82,86,84,88,85,94,425.0,85.0,A,Pass
+S013,Rahul,ECE,40,36,45,42,38,72,201.0,40.2,F,Pass
+S014,Anjali,IT,68,73,70,75,72,85,358.0,71.6,B,Pass
+S015,Varun,CSE,78,80,76,82,79,89,395.0,79.0,B,Pass
+S016,Anil,ECE,50,55,52,48,58,80,263.0,52.6,D,Pass
+S017,Keerthi,IT,87,84,89,86,90,96,436.0,87.2,A,Pass
+S018,Manoj,CSE,35,42,38,40,36,65,191.0,38.2,F,Pass
+S019,Farah,ECE,93,90,92,96,94,98,465.0,93.0,A+,Pass
+S020,Teja,IT,63,59,67,61,65,83,315.0,63.0,C,Pass
