@@ -110,4 +110,6 @@ Department: [Computer Science and Engineering]
 
 College: [Avanthi Institute of Engineering & Technology]
 
-GitHub Repository: [Add your repository URL after uploading]
+GitHub Repository: [https://github.com/mjswarup/Student-Performance-Analytics-System]
+
+Website Link: [https://student-performance-analytics-system-cxzsq3j9dpxjaqqyw8gwit.streamlit.app/]
